@@ -2,6 +2,7 @@
 
 ---
 
+[![CI](https://github.com/nogibjj/IDS706Mini11/actions/workflows/actions.yml/badge.svg)](https://github.com/nogibjj/IDS706Mini11/actions/workflows/actions.yml)
 ## **Overview**
 
 This project showcases a robust data processing pipeline using Databricks notebooks and Azure Databricks workflows. The pipeline smoothly progresses through data ingestion, transformation, and analysis stages. Utilizing SQL queries, the project establishes a "prepared_song_data" table with columns like artist name, duration, release, tempo, and more, effectively storing processed data within.
